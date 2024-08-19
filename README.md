@@ -18,5 +18,4 @@ Dự án này sử dụng TensorFlow, Mediapipe và YOLO để thực hiện nh�
 2. Cài đặt các thư viện cần thiết:
     ```bash
     pip install -r requirements.txt
-
     
